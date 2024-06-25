@@ -27,7 +27,6 @@ To set up your python environment to run the code in this repository, follow the
 3. **Unzip the environment file and place it in the root directory of this repository.**
 
 ## Instructions
-Follow the steps below to train the agent in the provided environment.
+To run the code, follow the Getting started instructions, git clone this repository and go to the folder repository. Then just type:
 
-1. **Place the Unity environment file in the root directory of this repository.**
-2. **Run the Jupyter notebook `Navigation.ipynb` to train the agent.** This notebook contains all the necessary code to train the agent and visualize its performance.
+python Test.py
